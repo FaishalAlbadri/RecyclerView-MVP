@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">RebuildMVPMovie</string>
+  <string name="lang_us_api">en-US</string>
+  <string name="onDataEmpty">Data Kosong</string>
+  <string name="onSucces">Data Semua Isi</string>
+</resources>
